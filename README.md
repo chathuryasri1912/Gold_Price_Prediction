@@ -3,8 +3,7 @@
 - We tested Linear Regression, Decision Tree, KNN, and Bayesian Ridge models to determine their accuracy and r2 score.
 - In our testing, KNN achieved the best accuracy of 98.86%.
 ### Architecture : 
-<img src="![image](https://github.com/chathuryasri1912/Gold_Price_Prediction/assets/128734435/383e5801-096d-496f-a65c-565d91ab7052)
-" width="400" height="600">
+<img src="https://github.com/chathuryasri1912/Gold_Price_Prediction/assets/128734435/383e5801-096d-496f-a65c-565d91ab7052" width="400" height="600">
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
